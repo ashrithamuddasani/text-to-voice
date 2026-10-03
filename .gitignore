@@ -1,0 +1,51 @@
+# Virtual Environment
+
+texttovoice/
+venv/
+.venv/
+env/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables / Secrets
+
+.env
+.env.*
+
+# Streamlit Secrets
+
+.streamlit/secrets.toml
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Log Files
+
+*.log
+
+# Generated Audio Files
+
+*.mp3
+*.wav
+*.ogg
+*.flac
